@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HTTPS->https://github.com/heesoon-hwang/proWeb.git
+=======
+HTTPS->https://github.com/heesoon-hwang/proWeb.git
+>>>>>>> 4a187014848fccacd1500db5de582efd012d0e2e
 SSH-->git@github.com:heesoon-hwang/proWeb.git
